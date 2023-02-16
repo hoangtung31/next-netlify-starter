@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Narcotics Anonymous" />
+        <Header title="Narcotics Thailv" />
         <p className="description">
-          <code>Insanity is doing the same thing, over and over again, but expecting different results.</code>
+          <code>Nước trong quá thì không có cá, người tốt quá thì không ai yêu</code>
         </p>
       </main>
 
